@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "id": "afb01be2-759e-4480-a9ec-6ff81a611834",
+      "name": "Nope",
+      "completed": false
+    }
+  ],
+  "utilisateur": [
+    {
+      "email": "x@x",
+      "lastname": "lastName",
+      "firstname": "firstname"
+    },
+    {
+      "email": "martinet@fabien.com",
+      "lastname": "martinet",
+      "firstname": "fabien"
+    },
+    {
+      "email": "bruendet@lucas.fr",
+      "lastname": "bruendet",
+      "firstname": "lucas"
+    }
+  ]
+}
